@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-new line added
-=======
-hello world
-2nd line added
->>>>>>> d9bcc28330ea9b803915e9a21125f8b68519af37
+welcome to python classes
